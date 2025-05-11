@@ -1,7 +1,7 @@
 <p align="left">
-Tools and Languages <br>
+<b> Tools and Languages </b><br>
 <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white " alt="C++"></a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> </a>
@@ -14,15 +14,15 @@ Tools and Languages <br>
 </p>
 
 <p align="left">
-Databases <br>
+<b> Databases </b><br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"> </a>  
-<a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pgadmin-FAA887?style=for-the-badge&logo=pgadmin&logoColor=white " alt="PgAdmin"></a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white " alt="PostgreSQL"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"> </a> 
 </p>
 
 <p align="left">
-Frameworks/Platforms/Libraries <br>
+<b> Frameworks/Platforms/Libraries </b><br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white " alt="react"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react  vite-%2361DAFB.svg?style=for-the-badge&logo=vite&logoColor=white" alt="react vite"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react  native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react native"></a>
@@ -33,10 +33,12 @@ Frameworks/Platforms/Libraries <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white " alt="django"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white " alt="bootstrap"></a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white " alt="tailwind"></a>
 </p>
 
 <p align="left">
-IDEs/Editors <br>
+<b> IDEs/Editors </b><br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android"> </a>
@@ -47,16 +49,18 @@ IDEs/Editors <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="notepad++"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-D62828?style=for-the-badge&logo=jenkins&logoColor=white " alt="jenkins"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white " alt="docker"></a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github%20actions-%23121011.svg?style=for-the-badge&logo=githubactions&logoColor=white " alt="github actions"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-EF8236?style=for-the-badge&logo=ubuntu&logoColor=white " alt="ubuntu"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali%20Linux-A9A9A9?style=for-the-badge&logo=kali-linux&logoColor=white " alt="kali-linux"></a>
 </p>
 
 <p align="left">
-Other <br>    
+<b> Other </b><br>    
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"> </a>   
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cisco-00ADEF.svg?style=for-the-badge&logo=cisco&logoColor=white " alt="cisco"></a>
 </p>
 
 ***
