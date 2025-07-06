@@ -1,3 +1,12 @@
+## 💫 About Me:
+
+#### 👨‍💻 All of my projects are available at [https://jimmyzghendy.is-a.dev/](https://jimmyzghendy.is-a.dev/)
+
+#### 📫 How to reach me: [jimmyelzghendy990@gmail.com](mailto:jimmyelzghendy990@gmail.com)
+
+---
+
+<!-- Your project description and other content goes here -->
 <p align="left">
 <h2 style="margin-bottom: 5px;">🖥️ Tools and Languages</h2>
 <p style="margin-top: 0px;">
