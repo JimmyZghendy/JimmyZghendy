@@ -1,7 +1,7 @@
 ## 💫 About Me:
-
+#### 👋 Hello world, I’m Jimmy Zghendy
+#### 👀 I’m interested in everything technology-related
 #### 👨‍💻 All of my projects are available at [https://jimmyzghendy.is-a.dev/](https://jimmyzghendy.is-a.dev/)
-
 #### 📫 How to reach me: [jimmyelzghendy990@gmail.com](mailto:jimmyelzghendy990@gmail.com)
 
 ---
